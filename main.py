@@ -7,8 +7,6 @@ import pandas as pd
 app = Flask(__name__)
 api = Api(app)
 
-# todo: modifier BD pour répondre au cahier des charges
-
 
 @app.route("/base/", methods=["GET"])
 def getBase():
@@ -32,11 +30,10 @@ def getObjects():
 def getId():
     name = request.args.get("Name")
     data = pd.read_csv("base-carbone.csv", sep=";")  # read CSV
+    
     data_mask = data["Name"] == name
     filtered_data = data[data_mask]
     filtered_data = filtered_data.to_dict()
-
-# todo: gérer les 404
 
     return {'Id': filtered_data}, 200
 
