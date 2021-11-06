@@ -7,6 +7,17 @@ Cette API tourne dans un container.
 
 Le code de l'API est dans le fichier /main.py
 
+## Composition de la base de données
+
+* Id : identifiant de la ligne
+* Name : Nom de l'objet en français
+* Unit : unité de l'émission
+* CO2f : quantité de CO2f
+* CH4f : quantité CH4f
+* CH4b : quantité de CH4b
+* N2O : quantité de NO2
+* CO2b : quantité de CO2b
+
 ## Install
 ### 1-builder image : 
 `$ docker build --tag api-base-carbone .`
