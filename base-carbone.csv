@@ -1,0 +1,33 @@
+﻿Id;Name;Unit;CO2f;CH4f;CH4b;N2O;CO2b
+21478;Bateau automoteur;kgCO2e/véhicule.km;30,3;0,0137;0;0,244;1,764467014
+21480;Bateau automoteur;kgCO2e/véhicule.km;18,2;8,22E-03;0;0,146;1,060165223
+21479;Bateau automoteur;kgCO2e/véhicule.km;20,8;9,40E-03;0;0,167;1,212188378
+21476;Bateau pousseur;kgCO2e/véhicule.km;23,4;0,0106;0;0,188;1,36234151
+14219;Bois bûche;kgCO2e/kg;0;0;0,0726;0;1,466666667
+14231;Broyats de cagettes et de pallettes;kgCO2e/kg;0;0;1,16E-03;0;1,466666667
+22030;Carton;kgCO2e/tonne;36;0;0;2809;1393
+22032;Carton;kgCO2e/tonne;0;0;0;2809;1393,333333
+24237;Carton;kgCO2e/tonne;33,3;137;0;-988450;169,9189333
+24236;Circuits imprimés;kgCO2e/m²;312;21,1;0;4;10,2128575
+22037;Circuits imprimés;kgCO2e/m²;398;27,1;0;6,09;13,192775
+14235;Déchets alimentaires;kgCO2e/tonne;0;0;0;0;146,3
+24243;Ecorces, sciures, broyats …;kgCO2e/tonne;0;0;0;0;1280
+14005;Ecran à cristaux liquides;kgCO2e/unité;46,9;5,6;0;0,226;1,3793125
+13989;Essence;kgCO2e/tep PCI;2860;23,4;0;23,5;198,478391
+25766;Essence;kgCO2e/litre;0,364;2,97E-03;0;2,99E-03;1,29088791
+25769;Essence;kgCO2e/litre;0,36;2,91E-03;0;2,92E-03;1,290888
+25760;Essence;kgCO2e/tonne;482;3,93;0;3,94;1728,096259
+25762;Essence;kgCO2e/tep PCI;2860;23,3;0;23,8;156,140338
+25770;Essence;kgCO2e/tonne;2860;23,7;0;23,8;154,001368
+13992;Gazole;kgCO2e/GJ PCI;53,6;0,0214;0;0,435;19,953016
+25777;Gazole non routier;kgCO2e/tep PCI;3029;1,21;0;24,6;112,5939674
+25779;Gazole routier;kgCO2e/tonne;3309;1,32;0;26,9;184,495797
+14225;Gazole routier;kgCO2e/tep PCI;2943;1,17;0;23,9;191,8484
+22063;Granulés bois;kgCO2e/kg;0;0;0,0511;0;1,686666667
+14238;Ordures ménagères;kgCO2e/tonne;0;12240;0;0;142,6552336
+14239;Paille;kgCO2e/kg;0;0;0;0;1,39
+22022;Paille;kgCO2e/tonne;0;0;0;0;1390
+14222;Papier;kgCO2e/tonne;36;0;0;2809;1393
+14242;Papier;kgCO2e/tonne;0;0;0;2809;1393,333333
+22030;Plaquettes forestières;kgCO2e/kg;0;0;0,0482;0;1,375
+22022;plaquettes forestières;kgCO2e/tonne;0;0;0;0;1110
