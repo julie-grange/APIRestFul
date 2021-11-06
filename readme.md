@@ -1,7 +1,7 @@
 # API Base Carbone
 Ceci est une API RestFul développé dans le cadre d'un test technique. 
 
-L'API utilise une base de donnée (base-carbone.csv). 
+L'API utilise une base de donnée "base-carbone.csv" issue d'un extrait de la base disponible sur le site de l'ADEME https://data.ademe.fr/datasets/base-carbone(r). 
 
 Cette API tourne dans un container. 
 
