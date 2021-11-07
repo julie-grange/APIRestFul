@@ -18,7 +18,7 @@ Le code de l'API est dans le fichier /main.py
 * N2O : quantité de NO2
 * CO2b : quantité de CO2b
 
-## Install
+## Installation
 ### 1-builder image : 
 `$ docker build --tag api-base-carbone .`
 
@@ -80,7 +80,7 @@ Content-Length: 6097
     }, ...
 ```
 
-### GET liste Object
+### GET liste objets
 Obtention de la liste des objets
 #### Requête
 
